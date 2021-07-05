@@ -1,0 +1,11 @@
+selectionSort(vet,i);
+
+for(int j =0;j<i;j++){
+    printf("%d",vet[j]);
+    if(j!=i-1){
+        printf(" ");
+    }
+}
+printf("\n");
+
+}
